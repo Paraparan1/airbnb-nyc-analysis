@@ -6,7 +6,7 @@ This project explores Airbnb listings in New York City using a Tableau dashboard
 ## Dataset
 Data was sourced from Kaggle’s [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data). It contains listing details, prices, availability, and reviews.
 
-![Airbnb NYC Tableau Dashboard](images/airbnb-dashboard.png)
+![Airbnb NYC Tableau Dashboard](airbnb-dashboard.png)
 
 ## Features
 - Interactive filters for neighbourhood, price range, and property type  

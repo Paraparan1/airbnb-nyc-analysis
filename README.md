@@ -25,6 +25,6 @@ This project presents a comprehensive data analysis and interactive visualisatio
 ## 🖼️ Dashboard Preview
 
 ### Tableau  
-![Tableau Dashboard Screenshot](airbnb-dashboard)
+![Tableau Dashboard Screenshot](airbnb-dashboard.png)
 
 
